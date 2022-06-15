@@ -1,2 +1,3 @@
-# IOCPWebSocketServerDemo
-基于IOCP完成端口的websocket server实现。
+# CustomWebSocketServerDemo
+
+基于个人的websocket server实现。
